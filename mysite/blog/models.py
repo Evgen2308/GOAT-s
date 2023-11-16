@@ -32,7 +32,7 @@ class Post(models.Model):
 
     objects = models.Manager()  # The default manager.
     published = PublishedManager()  # Our custom manager.
-    tag = TaggableManager()
+    tags = TaggableManager()
 
     class Meta:
         ordering = ['-publish']
