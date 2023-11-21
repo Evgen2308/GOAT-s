@@ -1,0 +1,1214 @@
+
+[
+{
+  "model": "admin.logentry",
+  "pk": 1,
+  "fields": {
+    "action_time": "2023-11-13T15:13:27.832Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "1",
+    "object_repr": "evgen2308",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 2,
+  "fields": {
+    "action_time": "2023-11-13T15:15:14.448Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "PolStone",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 3,
+  "fields": {
+    "action_time": "2023-11-13T15:15:55.000Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "PolStone",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"First name\", \"Last name\", \"Email address\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 4,
+  "fields": {
+    "action_time": "2023-11-13T15:16:11.022Z",
+    "user": 1,
+    "content_type": 4,
+    "object_id": "2",
+    "object_repr": "PolStone",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Email address\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 5,
+  "fields": {
+    "action_time": "2023-11-13T15:24:14.019Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who was Michael Jordan?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 6,
+  "fields": {
+    "action_time": "2023-11-13T18:37:26.628Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who was Alexander Ovechkin?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 7,
+  "fields": {
+    "action_time": "2023-11-13T18:38:40.646Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who is Michael Jordan?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 8,
+  "fields": {
+    "action_time": "2023-11-13T18:39:22.287Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who is Michael Jordan?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 9,
+  "fields": {
+    "action_time": "2023-11-13T18:39:41.823Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who is Alexander Ovechkin?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Slug\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 10,
+  "fields": {
+    "action_time": "2023-11-13T18:43:19.344Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Who is Tom Brady?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 11,
+  "fields": {
+    "action_time": "2023-11-13T18:47:05.652Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Who is Wayne Gretzky?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 12,
+  "fields": {
+    "action_time": "2023-11-13T18:50:09.590Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Who was Diego Armando Maradona?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 13,
+  "fields": {
+    "action_time": "2023-11-14T14:05:09.979Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Eugine on Who is Michael Jordan?",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 14,
+  "fields": {
+    "action_time": "2023-11-15T13:29:25.013Z",
+    "user": 1,
+    "content_type": 8,
+    "object_id": "1",
+    "object_repr": "Comment by Eugine on Who is Michael Jordan?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Active\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 15,
+  "fields": {
+    "action_time": "2023-11-16T16:03:12.149Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "1",
+    "object_repr": "Who is Michael Jordan?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 16,
+  "fields": {
+    "action_time": "2023-11-16T16:04:25.599Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "2",
+    "object_repr": "Who is Alexander Ovechkin?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 17,
+  "fields": {
+    "action_time": "2023-11-16T16:05:17.488Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Who is Tom Brady?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 18,
+  "fields": {
+    "action_time": "2023-11-16T16:05:46.847Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "4",
+    "object_repr": "Who is Wayne Gretzky?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 19,
+  "fields": {
+    "action_time": "2023-11-16T16:06:56.470Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "5",
+    "object_repr": "Who was Diego Armando Maradona?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 20,
+  "fields": {
+    "action_time": "2023-11-16T16:07:14.560Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "3",
+    "object_repr": "Who is Tom Brady?",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Tags\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 21,
+  "fields": {
+    "action_time": "2023-11-16T16:08:02.624Z",
+    "user": 1,
+    "content_type": 9,
+    "object_id": "8",
+    "object_repr": "american futball",
+    "action_flag": 3,
+    "change_message": ""
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 22,
+  "fields": {
+    "action_time": "2023-11-21T16:11:52.478Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Markdown post",
+    "action_flag": 1,
+    "change_message": "[{\"added\": {}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 23,
+  "fields": {
+    "action_time": "2023-11-21T16:13:46.688Z",
+    "user": 1,
+    "content_type": 7,
+    "object_id": "6",
+    "object_repr": "Markdown post",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Status\"]}}]"
+  }
+},
+{
+  "model": "admin.logentry",
+  "pk": 24,
+  "fields": {
+    "action_time": "2023-11-21T16:38:47.008Z",
+    "user": 1,
+    "content_type": 11,
+    "object_id": "1",
+    "object_repr": "localhost:8000",
+    "action_flag": 2,
+    "change_message": "[{\"changed\": {\"fields\": [\"Domain name\", \"Display name\"]}}]"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 1,
+  "fields": {
+    "name": "Can add log entry",
+    "content_type": 1,
+    "codename": "add_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 2,
+  "fields": {
+    "name": "Can change log entry",
+    "content_type": 1,
+    "codename": "change_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 3,
+  "fields": {
+    "name": "Can delete log entry",
+    "content_type": 1,
+    "codename": "delete_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 4,
+  "fields": {
+    "name": "Can view log entry",
+    "content_type": 1,
+    "codename": "view_logentry"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 5,
+  "fields": {
+    "name": "Can add permission",
+    "content_type": 2,
+    "codename": "add_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 6,
+  "fields": {
+    "name": "Can change permission",
+    "content_type": 2,
+    "codename": "change_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 7,
+  "fields": {
+    "name": "Can delete permission",
+    "content_type": 2,
+    "codename": "delete_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 8,
+  "fields": {
+    "name": "Can view permission",
+    "content_type": 2,
+    "codename": "view_permission"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 9,
+  "fields": {
+    "name": "Can add group",
+    "content_type": 3,
+    "codename": "add_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 10,
+  "fields": {
+    "name": "Can change group",
+    "content_type": 3,
+    "codename": "change_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 11,
+  "fields": {
+    "name": "Can delete group",
+    "content_type": 3,
+    "codename": "delete_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 12,
+  "fields": {
+    "name": "Can view group",
+    "content_type": 3,
+    "codename": "view_group"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 13,
+  "fields": {
+    "name": "Can add user",
+    "content_type": 4,
+    "codename": "add_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 14,
+  "fields": {
+    "name": "Can change user",
+    "content_type": 4,
+    "codename": "change_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 15,
+  "fields": {
+    "name": "Can delete user",
+    "content_type": 4,
+    "codename": "delete_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 16,
+  "fields": {
+    "name": "Can view user",
+    "content_type": 4,
+    "codename": "view_user"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 17,
+  "fields": {
+    "name": "Can add content type",
+    "content_type": 5,
+    "codename": "add_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 18,
+  "fields": {
+    "name": "Can change content type",
+    "content_type": 5,
+    "codename": "change_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 19,
+  "fields": {
+    "name": "Can delete content type",
+    "content_type": 5,
+    "codename": "delete_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 20,
+  "fields": {
+    "name": "Can view content type",
+    "content_type": 5,
+    "codename": "view_contenttype"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 21,
+  "fields": {
+    "name": "Can add session",
+    "content_type": 6,
+    "codename": "add_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 22,
+  "fields": {
+    "name": "Can change session",
+    "content_type": 6,
+    "codename": "change_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 23,
+  "fields": {
+    "name": "Can delete session",
+    "content_type": 6,
+    "codename": "delete_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 24,
+  "fields": {
+    "name": "Can view session",
+    "content_type": 6,
+    "codename": "view_session"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 25,
+  "fields": {
+    "name": "Can add post",
+    "content_type": 7,
+    "codename": "add_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 26,
+  "fields": {
+    "name": "Can change post",
+    "content_type": 7,
+    "codename": "change_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 27,
+  "fields": {
+    "name": "Can delete post",
+    "content_type": 7,
+    "codename": "delete_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 28,
+  "fields": {
+    "name": "Can view post",
+    "content_type": 7,
+    "codename": "view_post"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 29,
+  "fields": {
+    "name": "Can add comment",
+    "content_type": 8,
+    "codename": "add_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 30,
+  "fields": {
+    "name": "Can change comment",
+    "content_type": 8,
+    "codename": "change_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 31,
+  "fields": {
+    "name": "Can delete comment",
+    "content_type": 8,
+    "codename": "delete_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 32,
+  "fields": {
+    "name": "Can view comment",
+    "content_type": 8,
+    "codename": "view_comment"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 33,
+  "fields": {
+    "name": "Can add tag",
+    "content_type": 9,
+    "codename": "add_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 34,
+  "fields": {
+    "name": "Can change tag",
+    "content_type": 9,
+    "codename": "change_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 35,
+  "fields": {
+    "name": "Can delete tag",
+    "content_type": 9,
+    "codename": "delete_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 36,
+  "fields": {
+    "name": "Can view tag",
+    "content_type": 9,
+    "codename": "view_tag"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 37,
+  "fields": {
+    "name": "Can add tagged item",
+    "content_type": 10,
+    "codename": "add_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 38,
+  "fields": {
+    "name": "Can change tagged item",
+    "content_type": 10,
+    "codename": "change_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 39,
+  "fields": {
+    "name": "Can delete tagged item",
+    "content_type": 10,
+    "codename": "delete_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 40,
+  "fields": {
+    "name": "Can view tagged item",
+    "content_type": 10,
+    "codename": "view_taggeditem"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 41,
+  "fields": {
+    "name": "Can add site",
+    "content_type": 11,
+    "codename": "add_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 42,
+  "fields": {
+    "name": "Can change site",
+    "content_type": 11,
+    "codename": "change_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 43,
+  "fields": {
+    "name": "Can delete site",
+    "content_type": 11,
+    "codename": "delete_site"
+  }
+},
+{
+  "model": "auth.permission",
+  "pk": 44,
+  "fields": {
+    "name": "Can view site",
+    "content_type": 11,
+    "codename": "view_site"
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 1,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$F3Dmes4xFj2uljv0qkXlhe$97Mg307voClFt43s+hEZ/s6X+13I9sOYpBbKYWrk/vc=",
+    "last_login": "2023-11-13T15:12:48Z",
+    "is_superuser": true,
+    "username": "evgen2308",
+    "first_name": "Evgenii",
+    "last_name": "Strelnikov",
+    "email": "evgen2308@gmail.com",
+    "is_staff": true,
+    "is_active": true,
+    "date_joined": "2023-11-13T15:11:36Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "auth.user",
+  "pk": 2,
+  "fields": {
+    "password": "pbkdf2_sha256$600000$mkhof12GKT4x1WNXudQmLa$M4ebkv8r32Uxxx2ypGvzlpj93dZWoOsa1wU2ZAvEP2Y=",
+    "last_login": null,
+    "is_superuser": false,
+    "username": "PolStone",
+    "first_name": "Paul",
+    "last_name": "Stone",
+    "email": "Paule@stone.com",
+    "is_staff": false,
+    "is_active": true,
+    "date_joined": "2023-11-13T15:15:14Z",
+    "groups": [],
+    "user_permissions": []
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 1,
+  "fields": {
+    "app_label": "admin",
+    "model": "logentry"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 2,
+  "fields": {
+    "app_label": "auth",
+    "model": "permission"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 3,
+  "fields": {
+    "app_label": "auth",
+    "model": "group"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 4,
+  "fields": {
+    "app_label": "auth",
+    "model": "user"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 5,
+  "fields": {
+    "app_label": "contenttypes",
+    "model": "contenttype"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 6,
+  "fields": {
+    "app_label": "sessions",
+    "model": "session"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 7,
+  "fields": {
+    "app_label": "blog",
+    "model": "post"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 8,
+  "fields": {
+    "app_label": "blog",
+    "model": "comment"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 9,
+  "fields": {
+    "app_label": "taggit",
+    "model": "tag"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 10,
+  "fields": {
+    "app_label": "taggit",
+    "model": "taggeditem"
+  }
+},
+{
+  "model": "contenttypes.contenttype",
+  "pk": 11,
+  "fields": {
+    "app_label": "sites",
+    "model": "site"
+  }
+},
+{
+  "model": "sessions.session",
+  "pk": "wvd27v4zq4qqv4988ttw1uphb4d1m3pi",
+  "fields": {
+    "session_data": ".eJxVjMsOwiAQRf-FtSEwPOvSvd9ABgakaiAp7cr479qkC93ec859sYDbWsM28hJmYmcm2el3i5geue2A7thunafe1mWOfFf4QQe_dsrPy-H-HVQc9VsLMj6C9pDRemG1QCBwCS2CplQcGCWNBVmsVxO5yVOSRiFBAaGMLOz9AcVpNwY:1r2YcK:s-fIs_zaMv1L-Uj9WkKlAx80A1WJ7cgmWJTEpzIQ7AM",
+    "expire_date": "2023-11-27T15:12:48.911Z"
+  }
+},
+{
+  "model": "sites.site",
+  "pk": 1,
+  "fields": {
+    "domain": "localhost:8000",
+    "name": "localhost:8000"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 1,
+  "fields": {
+    "title": "Who is Michael Jordan?",
+    "slug": "who-is-michael-jordan",
+    "author": 1,
+    "body": "Michael Jeffrey Jordan (born February 17, 1963), also known by his initials MJ, is an American businessman and former professional basketball player. His profile on the official National Basketball Association (NBA) website states that \"by acclamation, Michael Jordan is the greatest basketball player of all time. He played fifteen seasons in the NBA, winning six NBA championships with the Chicago Bulls. He was integral in popularizing the sport of basketball and the NBA around the world in the 1980s and 1990s, becoming a global cultural icon.\r\n\r\nJordan played college basketball for three seasons under coach Dean Smith with the North Carolina Tar Heels. As a freshman, he was a member of the Tar Heels' national championship team in 1982. Jordan joined the Bulls in 1984 as the third overall draft pick and quickly emerged as a league star, entertaining crowds with his prolific scoring while gaining a reputation as one of the game's best defensive players. His leaping ability, demonstrated by performing slam dunks from the free-throw line in Slam Dunk Contests, earned him the nicknames \"Air Jordan\" and \"His Airness\". Jordan won his first NBA title with the Bulls in 1991 and followed that achievement with titles in 1992 and 1993, securing a three-peat. Jordan abruptly retired from basketball before the 1993–94 NBA season to play Minor League Baseball but returned to the Bulls in March 1995 and led them to three more championships in 1996, 1997, and 1998, as well as a then-record 72 regular season wins in the 1995–96 NBA season. He retired for the second time in January 1999 but returned for two more NBA seasons from 2001 to 2003 as a member of the Washington Wizards. During his professional career, he was also selected to play for the United States national team, winning four gold medals—at the 1983 Pan American Games, 1984 Summer Olympics, 1992 Tournament of the Americas and 1992 Summer Olympics—while also being undefeated.\r\n\r\nJordan's individual accolades and accomplishments include six NBA Finals Most Valuable Player (MVP) awards, ten NBA scoring titles (both all-time records), five NBA MVP awards, ten All-NBA First Team designations, nine All-Defensive First Team honors, fourteen NBA All-Star Game selections, three NBA All-Star Game MVP awards, three NBA steals titles, and the 1988 NBA Defensive Player of the Year Award. He holds the NBA records for career regular season scoring average (30.1 points per game) and career playoff scoring average (33.4 points per game). In 1999, he was named the 20th century's greatest North American athlete by ESPN and was second to Babe Ruth on the Associated Press' list of athletes of the century. Jordan was twice inducted into the Naismith Memorial Basketball Hall of Fame, once in 2009 for his individual career, and again in 2010 as part of the 1992 United States men's Olympic basketball team (\"The Dream Team\"). He became a member of the United States Olympic Hall of Fame in 2009, a member of the North Carolina Sports Hall of Fame in 2010, and an individual member of the FIBA Hall of Fame in 2015 and a \"Dream Team\" member in 2017. In 2021, he was named to the NBA 75th Anniversary Team.\r\n\r\nOne of the most effectively marketed athletes of his generation, Jordan made many product endorsements. He fueled the success of Nike's Air Jordan sneakers, which were introduced in 1984 and remain popular. He starred as himself in the live-action/animation hybrid film Space Jam (1996) and was the central focus of the Emmy-winning documentary series The Last Dance (2020). He became part-owner and head of basketball operations for the Charlotte Hornets (then named the Bobcats) in 2006 and bought a controlling interest in 2010, before selling his majority stake in 2023. He is also the owner of 23XI Racing in the NASCAR Cup Series. In 2016, he became the first billionaire player in NBA history. That year, President Barack Obama awarded him the Presidential Medal of Freedom. As of 2023, his net worth is estimated at $3 billion by Forbes.",
+    "publish": "2023-11-13T15:19:52Z",
+    "created": "2023-11-13T15:24:14.018Z",
+    "updated": "2023-11-16T16:03:12.144Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 2,
+  "fields": {
+    "title": "Who is Alexander Ovechkin?",
+    "slug": "who-is-alexander-ovechkin",
+    "author": 1,
+    "body": "Alexander Mikhailovich Ovechkin (Russian: Александр Михайлович Овечкин, IPA: [ɐlʲɪˈksandr ɐˈvʲetɕkʲɪn]; born 17 September 1985) is a Russian professional ice hockey left winger and captain of the Washington Capitals of the National Hockey League (NHL). Nicknamed \"Ovi\" (alternatively spelled \"Ovie\") and \"the Great Eight\" in reference to his jersey number, Ovechkin is widely regarded as one of the greatest goal scorers of all time. Second only to Wayne Gretzky for all-time goal scoring, Ovechkin also holds many records, including the most power play goals, most goals in away games, most overtime goals, and most goals with the same team in NHL history. He is the third NHL player, after Gordie Howe and Gretzky, to score 800 goals in the regular season.\r\n\r\nOvechkin began his professional career with Dynamo Moscow of the Russian Superleague in 2001, playing there for four seasons and returning briefly during the 2012–13 NHL lockout. A highly touted prospect, Ovechkin was selected by the Capitals first overall in the 2004 NHL Entry Draft. In the 2005–06 season, Ovechkin's first with the Capitals, he scored 52 goals and 54 assists to lead all rookies in points, capturing the Calder Memorial Trophy as rookie of the year and finishing third overall in league scoring.\r\n\r\nOvechkin has won the Maurice \"Rocket\" Richard Trophy, awarded annually to the NHL's leading goal scorer, an NHL-record nine times, first doing so in 2007–08, when his 65 goals and 112 points also earned him the Art Ross Trophy for most points scored. He holds the NHL record for most 40-goal seasons with thirteen and co-holds, with Mike Bossy and Gretzky, the record for most 50-goal campaigns with nine. He has won the Hart Memorial Trophy for most valuable player three times (in 2008, 2009, and 2013), and the Lester B. Pearson Award/Ted Lindsay Award for best player as voted on by the National Hockey League Players' Association three times (2008, 2009, 2010). In 2018, Ovechkin won the Stanley Cup for the first time, and was awarded the Conn Smythe Trophy for most valuable player in the 2018 playoffs. He has also been named to the NHL first All-Star team eight times, and the second All-Star team four times. In 2017, Ovechkin was named one of the 100 Greatest NHL Players of all time.\r\n\r\nInternationally, Ovechkin has represented Russia in multiple tournaments. His first IIHF tournament was the 2002 World U18 Championship. The following year he made his debut at the World Junior Championship, helping Russia win the gold medal. He played two more years at the World Juniors, as well as once more at the World U18 Championships. Ovechkin's first senior tournament was the 2004 World Championship, and he also played in the World Cup that year. Ovechkin has also played for Russia at the Winter Olympics in 2006, 2010, and 2014. Overall, Ovechkin has represented Russia at thirteen World Championships and three Olympics in his career, winning the World Championship three times.",
+    "publish": "2023-11-13T18:34:52Z",
+    "created": "2023-11-13T18:37:26.628Z",
+    "updated": "2023-11-16T16:04:25.593Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 3,
+  "fields": {
+    "title": "Who is Tom Brady?",
+    "slug": "who-is-tom-brady",
+    "author": 1,
+    "body": "Thomas Edward Patrick Brady Jr. (born August 3, 1977) is a former American football quarterback who played in the National Football League (NFL) for 23 seasons. He spent his first 20 seasons with the New England Patriots and was a central contributor to the franchise's dynasty from 2001 to 2019 under head coach Bill Belichick. In his final three seasons, he was a member of the Tampa Bay Buccaneers. Brady is widely regarded as the greatest quarterback of all time and one of the greatest players in NFL history.\r\n\r\nAfter playing college football at the University of Michigan, Brady was selected 199th overall by the Patriots in the sixth round of the 2000 NFL Draft, later earning him a reputation as the NFL's biggest draft steal. He became the starting quarterback during his second season, which saw the Patriots win their first Super Bowl title in Super Bowl XXXVI. As the team's primary starter for 18 seasons, Brady led the Patriots to 17 division titles (including 11 consecutive from 2009 to 2019), 13 AFC Championship Games (including eight consecutive from 2011 to 2018), nine Super Bowl appearances, and six Super Bowl titles, all NFL records for a player and franchise. He joined the Buccaneers in early 2020 and won Super Bowl LV, extending his individual records to 10 Super Bowl appearances and seven victories. Beginning in 2024, Brady will be the lead color commentator for NFL on Fox.\r\n\r\nBrady holds many major quarterback records, including most career passing yards, completions, touchdown passes, and games started. He is the NFL leader in career quarterback wins, quarterback regular season wins, quarterback playoff wins, and Super Bowl Most Valuable Player (MVP) Awards, and the only Super Bowl MVP for two different franchises. Additional accolades held by Brady include the most Pro Bowl selections and the first unanimous NFL MVP. The only quarterback to win a Super Bowl in three separate decades, Brady is also noted for the longevity of his success. He was the oldest NFL MVP at age 40, the oldest Super Bowl MVP at age 43, and the oldest quarterback selected to the Pro Bowl at age 44. Brady is the only NFL quarterback named to two all-decade teams (2000s and 2010s) and was unanimously named to the 100th Anniversary All-Time Team in 2019.",
+    "publish": "2023-11-13T18:41:05Z",
+    "created": "2023-11-13T18:43:19.343Z",
+    "updated": "2023-11-16T16:07:14.556Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 4,
+  "fields": {
+    "title": "Who is Wayne Gretzky?",
+    "slug": "who-is-wayne-gretzky",
+    "author": 1,
+    "body": "Wayne Douglas Gretzky CC (/ˈɡrɛtski/ GRET-skee; born January 26, 1961) is a Canadian former professional ice hockey player and former head coach. He played 20 seasons in the National Hockey League (NHL) for four teams from 1979 to 1999. Nicknamed \"the Great One\", he has been called the greatest ice hockey player ever by many sportswriters, players, The Hockey News, and the NHL itself, based on extensive surveys of hockey writers, ex-players, general managers and coaches. Gretzky is the leading goal scorer, assist producer and point scorer in NHL history, and has more career assists than any other player has total points. He is the only NHL player to total over 200 points in one season, a feat he accomplished four times. In addition, Gretzky tallied over 100 points in 15 professional seasons, 13 of them consecutive. At the time of his retirement in 1999, he held 61 NHL records: 40 regular season records, 15 playoff records, and 6 All-Star records.\r\n\r\nBorn and raised in Brantford, Ontario, Gretzky honed his skills on a backyard rink and regularly played minor hockey at a level far above his peers. Despite his unimpressive size and strength, Gretzky's intelligence, stamina, and reading of the game were unrivaled. He was adept at dodging checks from opposing players, and consistently anticipated where the puck was going to be and executed the right move at the right time. Gretzky became known for setting up behind his opponent's net, an area that was nicknamed \"Gretzky's office\".\r\n\r\nGretzky was the top scorer in the 1978 World Junior Championships. In June 1978, he signed with the Indianapolis Racers of the World Hockey Association (WHA), where he briefly played before being traded to the Edmonton Oilers. When the WHA folded, the Oilers joined the NHL, where he established many scoring records and led his team to four Stanley Cup championships. Gretzky's trade to the Los Angeles Kings on August 9, 1988, had an immediate impact on the team's performance, ultimately leading them to the 1993 Stanley Cup Finals, and he is credited with popularizing hockey in California. Gretzky played briefly for the St. Louis Blues before finishing his career with the New York Rangers. Gretzky captured nine Hart Trophies as the most valuable player, 10 Art Ross Trophies for most points in a season, two Conn Smythe Trophies as playoff MVP and five Lester B. Pearson Awards (now called the Ted Lindsay Award) for most outstanding player as judged by his peers. He led the league in goal-scoring five times and assists 16 times. He also won the Lady Byng Memorial Trophy for sportsmanship and performance five times, and often spoke out against fighting in hockey.\r\n\r\nAfter his retirement in 1999, Gretzky was immediately inducted into the Hockey Hall of Fame, making him the most recent player to have the waiting period waived. The NHL retired his jersey number 99 league-wide. Gretzky was one of six players voted to the International Ice Hockey Federation's (IIHF) Centennial All-Star Team. He was inducted into the IIHF Hall of Fame in 2000, and received the Order of Hockey in Canada in 2012. Gretzky became executive director for the Canadian national men's hockey team during the 2002 Winter Olympics, in which the team won a gold medal. In 2000, he became part-owner of the Phoenix Coyotes, and following the 2004–05 NHL lock-out, he became the team's head coach. In 2004, Gretzky was inducted into the Ontario Sports Hall of Fame. In September 2009, following the Phoenix Coyotes' bankruptcy, Gretzky resigned as head coach and relinquished his ownership share. In October 2016, he returned to the Oilers as a minority partner and vice-chairman of their parent company, Oilers Entertainment Group. He left in 2021 to become an analyst on Turner Sports' NHL coverage.",
+    "publish": "2023-11-13T18:43:25Z",
+    "created": "2023-11-13T18:47:05.651Z",
+    "updated": "2023-11-16T16:05:46.842Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 5,
+  "fields": {
+    "title": "Who was Diego Armando Maradona?",
+    "slug": "who-was-diego-armando-maradona",
+    "author": 1,
+    "body": "Diego Armando Maradona (Spanish: [ˈdjeɣo maɾaˈðona]; 30 October 1960 – 25 November 2020) was an Argentine professional football player and manager. Widely regarded as one of the greatest players in the history of the sport, he was one of the two joint winners of the FIFA Player of the 20th Century award.\r\n\r\nAn advanced playmaker who operated in the classic number 10 position, Maradona's vision, passing, ball control, and dribbling skills were combined with his small stature, which gave him a low centre of gravity and allowed him to manoeuvre better than most other players. His presence and leadership on the field had a great effect on his team's general performance, while he would often be singled out by the opposition. In addition to his creative abilities, he possessed an eye for goal and was known to be a free kick specialist. A precocious talent, Maradona was given the nickname El Pibe de Oro (\"The Golden Boy\"), a name that stuck with him throughout his career.\r\n\r\nMaradona was the first player to set the world record transfer fee twice: in 1982 when he transferred to Barcelona for £5 million, and in 1984 when he moved to Napoli for a fee of £6.9 million. He played for Argentinos Juniors, Boca Juniors, Barcelona, Napoli, Sevilla, and Newell's Old Boys during his club career, and is most famous for his time at Napoli where he won numerous accolades and led the club to Serie A title wins twice. Maradona also had a troubled off-field life and his time with Napoli ended after he was banned for taking cocaine.\r\n\r\nIn his international career with Argentina, he earned 91 caps and scored 34 goals. Maradona played in four FIFA World Cups, including the 1986 World Cup in Mexico, where he captained Argentina and led them to victory over West Germany in the final, and won the Golden Ball as the tournament's best player. In the 1986 World Cup quarter final, he scored both goals in a 2–1 victory over England that entered football history for two different reasons. The first goal was an unpenalized handling foul known as the \"Hand of God\", while the second goal followed a 60 m (66 yd) dribble past five England players, voted \"Goal of the Century\" by FIFA.com voters in 2002.\r\n\r\nMaradona became the coach of Argentina's national football team in November 2008. He was in charge of the team at the 2010 World Cup in South Africa before leaving at the end of the tournament. He then coached Dubai-based club Al Wasl in the UAE Pro-League for the 2011–12 season. In 2017, Maradona became the coach of Fujairah before leaving at the end of the season. In May 2018, Maradona was announced as the new chairman of Belarusian club Dynamo Brest. He arrived in Brest and was presented by the club to start his duties in July. From September 2018 to June 2019, Maradona was coach of Mexican club Dorados. He was the coach of Argentine Primera División club Gimnasia de La Plata from September 2019 until his death in 2020. He was ranked as the third best all time football player by FourFourTow magazine.",
+    "publish": "2023-11-13T18:48:04Z",
+    "created": "2023-11-13T18:50:09.589Z",
+    "updated": "2023-11-16T16:06:56.465Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.post",
+  "pk": 6,
+  "fields": {
+    "title": "Markdown post",
+    "slug": "markdown-post",
+    "author": 1,
+    "body": "This is a post formatted with markdown\r\n--------------------------------------\r\n*This is emphasized* and **this is more emphasized**.\r\nHere is a list:\r\n* One\r\n* Two\r\n* Three\r\nAnd a [link to the Django website](https://www.djangoproject.com/).",
+    "publish": "2023-11-21T16:10:13Z",
+    "created": "2023-11-21T16:11:52.475Z",
+    "updated": "2023-11-21T16:13:46.686Z",
+    "status": "PB"
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 1,
+  "fields": {
+    "post": 1,
+    "name": "Eugine",
+    "email": "Evgen230881@gmail.com",
+    "body": "Good post!",
+    "created": "2023-11-14T14:05:09.979Z",
+    "updated": "2023-11-15T13:29:25.012Z",
+    "active": false
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 2,
+  "fields": {
+    "post": 5,
+    "name": "Eugine",
+    "email": "Evgen230881@gmail.com",
+    "body": "Very intrested post!",
+    "created": "2023-11-15T13:25:48.321Z",
+    "updated": "2023-11-15T13:25:48.321Z",
+    "active": true
+  }
+},
+{
+  "model": "blog.comment",
+  "pk": 3,
+  "fields": {
+    "post": 5,
+    "name": "Mama",
+    "email": "basic_user@gmail.com",
+    "body": "I didn't now that!",
+    "created": "2023-11-15T13:26:59.960Z",
+    "updated": "2023-11-15T13:26:59.960Z",
+    "active": true
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 1,
+  "fields": {
+    "name": "jordan",
+    "slug": "jordan"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 2,
+  "fields": {
+    "name": "best player",
+    "slug": "best-player"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 3,
+  "fields": {
+    "name": "basketball",
+    "slug": "basketball"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 4,
+  "fields": {
+    "name": "goat",
+    "slug": "goat"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 5,
+  "fields": {
+    "name": "ovechkin",
+    "slug": "ovechkin"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 6,
+  "fields": {
+    "name": "hockey",
+    "slug": "hockey"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 7,
+  "fields": {
+    "name": "brady",
+    "slug": "brady"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 9,
+  "fields": {
+    "name": "gretzky",
+    "slug": "gretzky"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 10,
+  "fields": {
+    "name": "soccer",
+    "slug": "soccer"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 11,
+  "fields": {
+    "name": "maradona",
+    "slug": "maradona"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 12,
+  "fields": {
+    "name": "football",
+    "slug": "football"
+  }
+},
+{
+  "model": "taggit.tag",
+  "pk": 13,
+  "fields": {
+    "name": "markdown",
+    "slug": "markdown"
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 1,
+  "fields": {
+    "tag": 1,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 3,
+  "fields": {
+    "tag": 3,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 4,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 1
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 5,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 6,
+  "fields": {
+    "tag": 5,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 7,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 2
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 9,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 10,
+  "fields": {
+    "tag": 7,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 11,
+  "fields": {
+    "tag": 9,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 12,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 13,
+  "fields": {
+    "tag": 6,
+    "content_type": 7,
+    "object_id": 4
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 14,
+  "fields": {
+    "tag": 10,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 15,
+  "fields": {
+    "tag": 11,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 16,
+  "fields": {
+    "tag": 4,
+    "content_type": 7,
+    "object_id": 5
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 17,
+  "fields": {
+    "tag": 12,
+    "content_type": 7,
+    "object_id": 3
+  }
+},
+{
+  "model": "taggit.taggeditem",
+  "pk": 18,
+  "fields": {
+    "tag": 13,
+    "content_type": 7,
+    "object_id": 6
+  }
+}
+]
