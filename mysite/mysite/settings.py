@@ -41,6 +41,7 @@ INSTALLED_APPS = [
 
     'django.contrib.sites',
     'django.contrib.sitemaps',
+    'django.contrib.postgres',
 
     'blog.apps.BlogConfig',
 
@@ -83,10 +84,12 @@ WSGI_APPLICATION = 'mysite.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': 'blog',
         'USER': 'blog',
         'PASSWORD': 'admin2308',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
