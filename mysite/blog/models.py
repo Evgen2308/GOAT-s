@@ -7,11 +7,12 @@ from taggit.managers import TaggableManager
 
 class PublishedManager(models.Manager):
     def get_queryset(self):
-        return super().get_queryset() \
-            .filter(status=Post.Status.PUBLISHED)
+        return super().get_queryset()\
+                      .filter(status=Post.Status.PUBLISHED)
 
 
 class Post(models.Model):
+
     class Status(models.TextChoices):
         DRAFT = 'DF', 'Draft'
         PUBLISHED = 'PB', 'Published'
@@ -30,8 +31,8 @@ class Post(models.Model):
                               choices=Status.choices,
                               default=Status.DRAFT)
 
-    objects = models.Manager()  # The default manager.
-    published = PublishedManager()  # Our custom manager.
+    objects = models.Manager() # The default manager.
+    published = PublishedManager() # Our custom manager.
     tags = TaggableManager()
 
     class Meta:
@@ -64,7 +65,9 @@ class Comment(models.Model):
 
     class Meta:
         ordering = ['created']
-        indexes = [models.Index(fields=['created'])]
+        indexes = [
+            models.Index(fields=['created']),
+        ]
 
     def __str__(self):
         return f'Comment by {self.name} on {self.post}'
